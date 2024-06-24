@@ -1,5 +1,2 @@
-people=[{'name':"hi","number":"69"}]
-for i in people:
-    if(i['name']=="hi"):
-        print(i["number"])
-print('hii')        
+for x in range (1,22,20):
+    print(x)
